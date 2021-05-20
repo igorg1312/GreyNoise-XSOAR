@@ -76,7 +76,7 @@ script:
     def make_analyze_by_ip_request(ip):
         url_ = f'https://api.greynoise.io/v3/community/' + ip
         headers = {
-          'key': '{{H9vJJJApO4DXhfSF1wCzxAbeiXQUuKjUr4yCYv7gGN8kzeU4vSgM7f4nhUUW8P48}}'
+          'key': '{{your API key here}}'
         }
         return requests.request("GET",url_, headers=headers, verify=False)
 
