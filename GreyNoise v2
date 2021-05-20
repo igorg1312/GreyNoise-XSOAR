@@ -1,0 +1,262 @@
+commonfields:
+  id: Grey v2 (modified Igor)
+  version: -1
+name: Grey v2 (modified Igor)
+display: Grey v2 (modified Igor)
+category: Threat Intelligence
+image: data:image/png;base64,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
+description: IP Analysis
+detaileddescription: |
+  GreyNoise Community integration
+configuration:
+- display: API Key
+  name: APIKey
+  defaultvalue: ""
+  type: 4
+  required: false
+- display: Use system proxy
+  name: proxy
+  defaultvalue: ""
+  type: 8
+  required: false
+- display: Trust any certificate (not secure)
+  name: insecure
+  defaultvalue: ""
+  type: 8
+  required: false
+script:
+  script: |2
+
+    ''' IMPORTS '''
+    import requests
+    url1 = "https://api.greynoise.io/v3/community/"
+    url = "https://api.greynoise.io/v3/community/8.8.8.8"
+
+    headers = {
+      'key': '{{your API key here}}'
+    }
+
+
+    def handle_response(response):
+      if response.status_code:
+        error_msg = (response.status_code, "Failed to perform request")
+
+
+      try:
+        return response.json()
+      except json.decoder.JSONDecodeError:
+        # This error is unlikely to happen, as the return code should indicate of error beforehand
+        error_msg(f'Response returned with no data. This might be an issue with Greynoise.\nPlease try again later\n'
+                     f'Response content:\n{response.content}')
+
+
+    def get_session():
+      response = requests.request("GET", url, headers=headers, verify=False)
+      response = handle_response(response)
+      session = requests.session()
+
+
+      return session
+
+
+    def check_is_available():
+      url = f'https://api.greynoise.io/v3/community/8.8.8.8'
+      session = get_session()
+      result = session.get(url, verify=False)
+      output = result.json()['message']
+
+      if output == 'IP not observed scanning the internet or contained in RIOT data set':
+       return(output)
+
+
+      else:
+       return 'ok' #if result.json()['message']=='Success' else None
+
+
+    def make_analyze_by_ip_request(ip):
+        url_ = f'https://api.greynoise.io/v3/community/' + ip
+        headers = {
+          'key': '{{H9vJJJApO4DXhfSF1wCzxAbeiXQUuKjUr4yCYv7gGN8kzeU4vSgM7f4nhUUW8P48}}'
+        }
+        return requests.request("GET",url_, headers=headers, verify=False)
+
+
+    def handle_analyze_response(response):
+          response = handle_response(response)
+
+          result_url = response['message']
+          analysis_id = result_url.rsplit('/', 1)[-1]
+
+
+          return ('Analysis created successfully', result_url, response)
+
+    def analyze_by_hash_command():
+          x = get_session()
+          ip = demisto.getArg('ip')
+          y = make_analyze_by_ip_request(ip)
+          response = make_analyze_by_ip_request(ip)
+
+          output = handle_analyze_response(response)
+          report = response.json()
+          demisto.results(report)
+
+          output = report['message']
+
+          if output == 'Success':
+           x1  = report['last_seen']
+           y1  = report['link']
+           z1  = report['classification']
+           v1  = report['name']
+           headers = ['Result']
+           human_readable = ''
+           human_readable += tableToMarkdown(name='Last seen', t=x1, headers=headers)
+           human_readable += tableToMarkdown(name='Link', t=y1, headers=headers)
+           human_readable += tableToMarkdown(name='Classification', t=z1, headers=headers)
+           human_readable += tableToMarkdown(name='Name', t=v1, headers=headers)
+
+           entryContext = {
+                "DBotScore":{
+                    "Indicator": ip,
+                    "Type": "IP",
+                    "Vendor": "Greynoise",
+                    "Score": 1
+                }
+            }
+
+           entryContext["DBotScore"]["Score"] = 3
+
+           ec = {
+            'Laste seen': x1,
+            'Link': y1,
+            'Classification': z1,
+            'Name': v1
+           }
+
+           human_readable += tableToMarkdown(name='DBot', t=entryContext, headers=headers)
+
+           # Others table
+           dr=[]
+           dr.append(y1)
+           dr.append(x1)
+           dr.append(z1)
+           dr.append(v1)
+           # Create full ec
+           ec = {
+            'Domain': {
+                'WHOIS': dr
+            }
+           }
+
+           demisto.results({"EntryContext": entryContext})
+
+           return_outputs(readable_output=human_readable,
+                       outputs=ec,
+                       raw_response=report)
+
+          else:
+           print(report)
+           #prepare table to markdown
+           x10  = report['message']
+           headers1 = ['Result']
+           human_readable1 = ''
+           human_readable1 += tableToMarkdown(name='Result', t=x10, headers=headers1)
+
+           ec1 = {
+            'Result': x10
+           }
+
+           # Others table
+           dr1=[]
+           dr1.append(x10)
+           # Create full ec
+           ec1 = {
+            'Domain': {
+                'WHOIS': dr1
+            }
+           }
+
+           return_outputs(readable_output=human_readable1,
+                       outputs=ec1,
+                       raw_response=report)
+
+
+
+
+    #response1 = get_session()
+    #x = check_is_available(response1)
+    #print(x)
+    #y = make_analyze_by_ip_request('8.8.8.8')
+    #print(handle_analyze_response(y))
+
+
+    def main():
+      try:
+        handle_proxy()
+        if demisto.command() == 'test-module':
+          demisto.results(check_is_available())
+        elif demisto.command() == 'ip':
+          analyze_by_hash_command()
+
+
+      except Exception as e:
+        return_error(str(e))
+
+
+    # python2 uses __builtin__ python3 uses builtins
+    if __name__ == "__builtin__" or __name__ == "builtins":
+      main()
+  type: python
+  commands:
+  - name: ip
+    arguments:
+    - name: ip
+      required: true
+      description: ip to query
+    outputs:
+    - contextPath: Grey.Analysis.ID
+      description: Grey analysis id
+      type: string
+    - contextPath: Grey.Analysis.Status
+      description: status of the analysis
+      type: string
+    - contextPath: Grey.Analysis.Type
+      description: type of the analysis
+      type: string
+    - contextPath: Grey.ip
+      description: IP
+      type: string
+    - contextPath: Grey.classification
+      description: For malicious IP
+      type: string
+    - contextPath: DBotScore.Indicator
+      description: The indicator we tested
+      type: string
+    - contextPath: DBotScore.Type
+      description: The type of the indicator
+      type: string
+    - contextPath: DBotScore.Vendor
+      description: Vendor used to calculate the score
+      type: string
+    - contextPath: DBotScore.Score
+      description: The actual score
+      type: number
+    - contextPath: DBotScore.Indicator
+      description: The indicator we tested
+      type: string
+    - contextPath: DBotScore.Type
+      description: The type of the indicator
+      type: string
+    - contextPath: DBotScore.Vendor
+      description: Vendor used to calculate the score
+      type: string
+    - contextPath: DBotScore.Score
+      description: The actual score
+      type: number
+    - contextPath: Grey.Metadata
+      description: Metadata returned from Intezer analysis (analysis id, analysis
+        url, family, family type, sha256, verdict, sub_verdict). Metedata will be
+        retuned only for supported files.
+    description: Checks the latest public analysis of the given hash, if one exists,
+      supports IP
+  dockerimage: demisto/python3:3.7.3.286
+  runonce: false
